@@ -1,0 +1,6 @@
+C:\Users\jasonngu\RiderProjects\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\jasonngu\RiderProjects\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\jasonngu\RiderProjects\Gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+C:\Users\jasonngu\RiderProjects\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\jasonngu\RiderProjects\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\jasonngu\RiderProjects\Gomoku\obj\Debug\Gomoku.pdb
